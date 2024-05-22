@@ -22,7 +22,7 @@ To run the project, follow these steps:
 1. Clone the repository.
 2. Install dependencies using the command `npm install`.
 3. Launch the project with `npm run dev`.
-4. Open the project at [http://localhost:3000](http://localhost:3000)
+4. Open the project at [http://localhost:5173](http://localhost:3000)
 
 ## License
 
